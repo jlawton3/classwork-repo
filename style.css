@@ -1,0 +1,40 @@
+body {
+    background-image: url(background.jpg);
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div.a {
+    text-align: center;
+    border-style: solid;
+}
+
+div.b {
+    text-align: center;
+    border-style: solid;
+}
+
+div.c {
+    text-align: center;
+    border-style: solid;
+}
+
+div.d {
+    text-align: left;
+    border-style: solid;
+}
+
+div.e {
+    text-align: left;
+    border-style: solid;
+}
+
+div.f {
+    text-align: center;
+    border-style: solid;
+}
+
+tr:nth-child(3n+0) {
+    background-color: #f2f2f2
+}
